@@ -2,7 +2,8 @@
 " if you can't code in assembly you don't know what the computer is doing " ~George hotz . ( Pascal Triangle Generator &amp; Monoalphabetic Substitution Encryption )
 
 <br /> The first project inside the repo is a Monoalphabetic Substitution Encryption program 
-<br /> In the monoalphabetic substitution encryption, each alphabetic letter is substituted by another letter according to the following table: 
+<br /> In the monoalphabetic substitution encryption, each alphabetic letter is substituted by another letter according to the following table:
+<br />
 ![table](/images/3.PNG) 
 
 <br />The program encrypts the input message using the stored table, and decrypt the cipher text to obtain the original text message.
